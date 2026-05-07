@@ -22,7 +22,7 @@
 ---
 
 ## 🧠 About Me
-
+'''python
 
 class RhynaSussanaJohn:
     def __init__(self):
