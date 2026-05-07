@@ -22,8 +22,8 @@
 ---
 
 ## 🧠 About Me
-'''python
 
+```python
 class RhynaSussanaJohn:
     def __init__(self):
         self.name        = "Rhyna Sussana John"
